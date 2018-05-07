@@ -1,6 +1,6 @@
 # hello-world
 first one evah
 ...
-waiting for an offer
+waiting for the offer
 ...
 or two
